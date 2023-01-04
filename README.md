@@ -3,7 +3,7 @@
 ##### 克隆至本地
 
 ```
-git clone git@github.com:desertedwind/weblogpic.git
+git clone git@github.com:desertedwind/weblog_img.git
 ```
 
 ##### 修改以后再次提交
@@ -23,28 +23,28 @@ git push
 ### 博客头像图片链接
 
 ```
-https://cdn.staticaly.com/gh/desertedwind/weblogpic@master/avator/avator.webp
+https://cdn.staticaly.com/gh/desertedwind/weblog_img@master/avator/avator_.webp
 ```
 ### 博客背景图片链接
 
 ```
-https://cdn.staticaly.com/gh/desertedwind/weblogpic@master/background/background.webp
+https://cdn.staticaly.com/gh/desertedwind/weblog_img@master/background/background_.webp
 ```
 ### 博客文章图片链接
 
 ```
-https://cdn.staticaly.com/gh/desertedwind/weblogpic@master/post/post.webp
+https://cdn.staticaly.com/gh/desertedwind/weblog_img@master/post/post_.webp
 ```
 
 ### 链接头像图片链接
 
 ```
-https://cdn.staticaly.com/gh/desertedwind/weblogpic@master/lilk_avator/lilk_avator.webp
+https://cdn.staticaly.com/gh/desertedwind/weblog_img@master/lilk_avator/lilk_avator_.webp
 ```
 ### 链接站点图片链接
 
 ```
-https://cdn.staticaly.com/gh/desertedwind/weblogpic@master/link_site/link_site.webp
+https://cdn.staticaly.com/gh/desertedwind/weblog_img@master/link_site/link_site_.webp
 ```
 
 
