@@ -42,5 +42,11 @@ https://pic.desertedwind.com/images/post_.webp
 https://pic.desertedwind.com/site/site_.webp
 ```
 
+#### 网站图像链接
+
+```
+https://pic.desertedwind.com/site/favicon_.webp
+```
+
 
 
