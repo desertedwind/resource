@@ -1,6 +1,4 @@
-# 博客图床
-
-##### 克隆至本地
+#### 克隆至本地
 
 ```
 git clone git@github.com:desertedwind/weblog_img.git
@@ -20,24 +18,29 @@ git commit -m "update commit"
 git push
 ```
 
-### 博客头像图片链接
+#### 头像图片链接
 
 ```
-https://pic.desertedwind.com/avator/avator_.webp
+https://pic.desertedwind.com/images/avator_.webp
 ```
 
-### 博客背景图片链接
+#### 背景图片链接
 
 ```
-https://pic.desertedwind.com/background/background_.webp
+https://pic.desertedwind.com/images/background_.webp
 ```
 
-### 博客文章图片链接
+#### 文章图片链接
 
 ```
-https://pic.desertedwind.com/post/post_.webp
+https://pic.desertedwind.com/images/post_.webp
 ```
 
+#### 网站图片链接
+
+```
+https://pic.desertedwind.com/site/site_.webp
+```
 
 
 
