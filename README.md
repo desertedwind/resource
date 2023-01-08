@@ -1,7 +1,7 @@
 #### 克隆至本地
 
 ```
-git clone git@github.com:desertedwind/weblog_img.git
+git clone git@github.com:desertedwind/resource.git
 ```
 
 ##### 修改以后再次提交
