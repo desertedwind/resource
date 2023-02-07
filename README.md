@@ -21,17 +21,17 @@ git push
 #### 头像图片链接
 
 ```
-https://pic.desertedwind.com/images/avator_.webp
+https://resource.desertedwind.com/images/avator_.webp
 ```
 
 #### 背景图片链接
 
 ```
-https://pic.desertedwind.com/images/background_.webp
+https://resource.desertedwind.com/images/background_.webp
 ```
 
 #### 文章图片链接
 
 ```
-https://pic.desertedwind.com/images/post_.webp
+https://resource.desertedwind.com/images/post_.webp
 ```
